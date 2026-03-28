@@ -43,6 +43,7 @@ public class ElectricBill {
         System.out.printf("Back Dues: %.2f\n", backdues);
 
         System.out.printf("Total Bill Amount: %.2f\n", totalAmount);
+        System.out.println("\n----- Aman Kumar Pandey -----");
     }
 
     public static double calculateBill(double units) {
